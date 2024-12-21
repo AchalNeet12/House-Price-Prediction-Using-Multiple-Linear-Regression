@@ -1,0 +1,5 @@
+numpy
+pandas
+streamlit
+sklearn.linear_model=LinearRegression
+base64
