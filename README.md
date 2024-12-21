@@ -32,14 +32,14 @@ By incorporating multiple features, the regression model provides more accurate 
 ## Dataset
 1. **Source:** The dataset (House_data.csv) contains data about houses, including features and their corresponding prices.
 2. **Features Used:**
- - **Number of bedrooms:** Total bedrooms in the house.
- - **Number of bathrooms:** Total bathrooms in the house.
- - **Square footage of living area:** Total square footage.
- - **View quality:** A numerical rating of the house's view (0-4).
- - **Year built:** Year the house was constructed.
- - **Living area of 15 closest neighbors:** Average square footage of living areas in the neighborhood.
+  - **Number of bedrooms:** Total bedrooms in the house.
+  - **Number of bathrooms:** Total bathrooms in the house.
+  - **Square footage of living area:** Total square footage.
+  - **View quality:** A numerical rating of the house's view (0-4).
+  - **Year built:** Year the house was constructed.
+  - **Living area of 15 closest neighbors:** Average square footage of living areas in the neighborhood.
 3. **Target Variable:**
- - **House price:** The price of the house, used as the dependent variable.
+  - **House price:** The price of the house, used as the dependent variable.
 
 ---
 
@@ -71,14 +71,14 @@ Styled layout with a background image and sidebar for user inputs.
 
 ## Technology Used
 1. **Programming Language:**
- - Python
+  - Python
 2. **Framework:**
- - Streamlit: For building the interactive web app.
+  - Streamlit: For building the interactive web app.
 3. Libraries:
- - NumPy: For numerical computations.
- - Pandas: For data manipulation.
- - Scikit-learn: For building and evaluating the regression model.
- - Base64: For encoding the background image.
+  - NumPy: For numerical computations.
+  - Pandas: For data manipulation.
+  - Scikit-learn: For building and evaluating the regression model.
+  - Base64: For encoding the background image.
 
 ---
 
